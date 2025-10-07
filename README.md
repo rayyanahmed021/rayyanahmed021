@@ -1,4 +1,9 @@
 ## Hi there 👋
+Software Engineer
+What I'm up to 💡
+🎓 Forth year CS @ York University
+🛠 Prev @ Wealthsimple, EA, Bell Canada
+🤓 Specializing in AI
 
 <!--
 **rayyanahmed021/rayyanahmed021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
